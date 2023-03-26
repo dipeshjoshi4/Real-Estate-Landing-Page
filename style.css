@@ -4,7 +4,13 @@
     box-sizing: border-box;
     font-family: 'Poppins';
 }
-
+.developer-details {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5em;
+    padding-bottom: 50px;
+}
 header{
     background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(/Photos/mainBackground.png);
     background-size: cover;
