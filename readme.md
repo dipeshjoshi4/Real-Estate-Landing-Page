@@ -1,5 +1,9 @@
 
+# 🔗 Real-Estate-Landing-Page
 
+- This Website is for online buying and selling House and rent for house hunting
+- which is given every and each deatil of house,appertament and its required lots of solution then old House Website
+- we can say its beutifull design .given right solution with good features and provide good user experience to client
 
 
 ## 🔗 Live Link
